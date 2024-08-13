@@ -2,7 +2,7 @@
 lock '~> 3.13.0'
 
 set :application, 'jasper_reporting_engine'
-set :repo_url, 'git@github.com:NoSoft-SA/jasper_reporting_engine.git'
+set :repo_url, 'git@github.com:AgrigateOne/jasper_reporting_engine.git'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
